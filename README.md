@@ -1,8 +1,9 @@
 # princej69
-A 14 year old male who has a laptop and can code... normally
+A code who lives in a random country from South east Asia.
 
 ## About
 - Discord: Pink Playz#1655
+- YouTube: [Here it is!](https://www.youtube.com/channel/UCyTzJ2G_4TytAZKOcZjQZXw) (I only post random a gain videos on this channel)
 
 ## Want more?
 Coming soon!
@@ -16,4 +17,3 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!--- Changed At June 29, 2022 --->
-
