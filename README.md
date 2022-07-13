@@ -1,12 +1,17 @@
 # princej69
-A code who lives in a random country from South east Asia.
+A coder who lives in a random country from South east Asia.
 
-## About
-- Discord: Pink Playz#1655
-- YouTube: [Here it is!](https://www.youtube.com/channel/UCyTzJ2G_4TytAZKOcZjQZXw) (I only post random a gain videos on this channel)
-
-## Want more?
-Coming soon!
+```js
+const thisUser = {
+  youtube: "UCyTzJ2G_4TytAZKOcZjQZXw",
+  discord: "Pink Playz#1655",
+  aboutme: {
+    name: "PJ Satur",
+    birthday: new Date("May 7, 2023"),
+    age: NaN
+  }
+};
+```
 
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=princej69&theme=chartreuse-dark&show_icons=true)]()
