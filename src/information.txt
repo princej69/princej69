@@ -1,0 +1,41 @@
+These are my sources of files that may get used to ../readme.md file.
+
+Have a great day putting these files!
+(Do not put without permission)
+
+To get permission from me, do the following:
+I.
+1. DM me on Twitter @princej69420
+2. Message me "(anything), can I have access to this github repository: princej69/princej69"
+3. Send another message this time with your GitHub username.
+
+II.
+1. DM me on Discord Pink Playz#1655
+2. Message me "(anything), can I have access to this github repository: princej69/princej69"
+3. Send another message this time with your GitHub username.
+
+Then,
+if you're really a programmer, you may create a small project (like numberguessinggame.py) then send me the source code. If it is really working, I will give you permission.
+If not, you will do the next method:
+
+Method 2:
+watch begula videos-
+joke
+
+REAL METHOD 2:
+If you're really a programmer, print the hello world 10 times using JavaScript inside the homemade function printl(). If you are not really sure,
+
+Here's the hint:
+
+In JavaScript,
+Create a function called printl.
+Inside printl() brackets, create an argument called text,
+then inside printl() {}, print the text.
+Then outside the function,
+
+call printl("hello world") 10 times.
+
+(you have to send me the source code)
+If it works, I will give you permission.
+
+If still is not.... I'm sorry... I will have to deny your request...
