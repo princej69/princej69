@@ -8,7 +8,7 @@ const thisUser = {
   aboutme: {
     name: "PJ Satur",
     birthday: new Date("May 7, 2023"),
-    age: NaN
+    age: 11 // my true age, DONT EXPOSE ME OR ELSE
   }
 };
 ```
