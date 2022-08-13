@@ -4,4 +4,7 @@
 Currently an 11 year old boy who likes programming `here`, just so you know.
 
 ### Languages
-- rewrite. stay tuned
+- **JavaScript**
+
+
+- rewrite. stay tuned!
