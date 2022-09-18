@@ -1,7 +1,7 @@
 <div align="center"><i>LINKS COMING SOON</i></div>
 
 ### I'm PJ Satur!
-Currently an 11 year old guy who likes programming `here`, just so you know.
+Currently an *[RESTRICTED]* year old guy who likes programming `here`, just so you know.
 
 ### Languages
 - **JavaScript**
