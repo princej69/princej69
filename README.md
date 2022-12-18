@@ -1,7 +1,8 @@
 ---
-<div align="center"><i>LINKS COMING SOON</i></div>
+<div align="center">...</div>
+not yet
 
 ---
 
-### Atom Dimensions
-[Wiki](https://atom-dimensions.fandom.com/wiki/Atom_Dimensions_Wiki)
+**im developeing idle atoms 2!!1!1!1!1**
+69
