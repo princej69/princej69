@@ -1,8 +1,7 @@
 ---
-<div align="center">...</div>
+<div align="center">uh huh</div>
 not yet
 
 ---
 
-**im developeing idle atoms 2!!1!1!1!1**
-69
+**sharing codes when i want to.**
