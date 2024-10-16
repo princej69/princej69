@@ -1,5 +1,11 @@
 [
   {
+    "title":"Introducing Barebones TD",
+    "subtitle":"A very simple tower defense game",
+    "body":"Today I made the project Barebones TD which is a tower defense with very basic features, no graphics included, and written in HTML. It is going to start on a Friday because school GRAHHHHH and thats it! Im going to sleep now bye",
+    "time": 1729087351031
+  },
+  {
     "title":"Future Plans",
     "subtitle":"The update could come in November 2024",
     "body":"This article is the first to have subtitles, which is present in most news outlets. I'm not making this a news outlet, it is more like a blog. This includes: \n\n-Adding the subtitles\n-Fixing layout\n-Adding bottom sheet dialog, which has been missing for the past few months\n-More settings\n-And more.\n\nAnd there are some future plans: \n\n- Migrating the data from here to MySQL\n-More planned features.\n\nSee you in Update 7!",
