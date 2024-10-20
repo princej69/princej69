@@ -1,5 +1,11 @@
 [
   {
+    "title":"Working on Vanton",
+    "subtitle":"This was planned a couple months ago",
+    "body":"I saw some libGDX projects then I remember than Vanton is going to be written in libGDX so my mind had the Idea to develop Vanton. I thought of planning to create Vanton some months ago, at least 5 months ago. The classic version of Vanton will show the game screen. The default character (Placeholderball) will be used. By the way on my slow laptop, I made some prototypes of Vanton. Soon I would work on Barebones TD also in LibGDX, but it will be postponed to a future date.",
+    "time": 1729420670732
+  },
+  {
     "title":"Introducing Barebones TD",
     "subtitle":"A very simple tower defense game",
     "body":"Today I made the project Barebones TD which is a tower defense with very basic features, no graphics included, and written in HTML. It is going to start on a Friday because school GRAHHHHH and thats it! Im going to sleep now bye",
