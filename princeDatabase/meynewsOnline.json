@@ -1,5 +1,11 @@
 [
   {
+    "title": "Happy Halloween!",
+    "subtitle": "Details about RSS implementation",
+    "body": "I have introduced the RSS support to MeyNews. It isnt working just yet. it shows something like\n\n<code>\n&lt;?xml version='1.0' encoding='UTF-8'>...\n</code>\n\nStay tuned for the next update.",
+    "time": 1730294085210
+  }, 
+  {
     "title": "Adding RRS Support",
     "subtitle": "Making MeyNews more customizable",
     "body": "Today I have planned to make RSS support for the app. This is really great news because it will make MeyNews your very own! During the beta feature of the RSS feature it will only support one feed at a time, but it will increase soon as the feature gets updated. After this I will prepare an architecture change for the body. This will be a lot of work, but the support for images and other types an be introduced!",
